@@ -1,2 +1,3 @@
 # map671-final-project-efcochran
  Map 671 Final Map
+This final map is inspired by a real estate developer who I previously worked for. The goal for the map is to show the proximity of state parks to people. I chose to do a hexgrid population map showing the distrobution of people across Florida, each hex represents 10 miles in the long diagonal. The parks are represented by point data. This allows the reader to understand how many people are with in a certain distance of a park. 
