@@ -1,6 +1,11 @@
 # map671-final-project-efcochran
 
 ## Map 671 Final Map
+  "title": "Population in Relation to Florida State Parks",
+    "info": "The goal of this map is to show the population density of Florida in measurable milage from Florida State Parks.", 
+    "coordinates": [34.5, -94.5],
+    "author": "Elliott Cochran", 
+    "link": "https://github.com/newmapsplus/map671-module-10-efcochran"
 
 ### Background
 
@@ -8,13 +13,13 @@ This final map is inspired by a real estate developer who I previously worked fo
 
 ### Datasets
 
-I used two datasets for this project. The points representing parks came from.......the second dataset which provided population data came from......
+I used two datasets for this project. The points representing parks came from the Florida Department of Recreation and Parks second dataset which provided population data came from Natural Earth.
 
 ### Processing
 
-The data were edited using QGIS.....The park data was available as points, which were loaded into QGIS. The population data was available at the county level in Florida.
+The data were edited using QGIS 3.24.2-Tisler. The park data was available as points, which were loaded into QGIS. The population data was available at the county level in Florida.
 
-A hexgrid was created in QGIS with the following settings.....The hexgrid shows the.......
+A hexgrid was created in QGIS with a 10 mile long diagonal. The hexgrid shows the Population density in 10 mile increments.
 
 ### Map availability
 
