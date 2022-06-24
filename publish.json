@@ -1,7 +1,7 @@
 {
     "title": "Population in Relation to Florida State Parks",
  "info": "The goal of this map is to show the population density of Florida in measurable milage from Florida State Parks.", 
- "coordinates": [-84.536,24.136],
+ "coordinates": [24.136,-84.536],
  "author": "Elliott Cochran", 
 "link": "https://github.com/newmapsplus/map671-module-10-efcochran"
 }
