@@ -1,11 +1,7 @@
 # map671-final-project-efcochran
 
 ## Map 671 Final Map
-  "title": "Population in Relation to Florida State Parks",
-    "info": "The goal of this map is to show the population density of Florida in measurable milage from Florida State Parks.", 
-    "coordinates": [34.5, -94.5],
-    "author": "Elliott Cochran", 
-    "link": "https://github.com/newmapsplus/map671-module-10-efcochran"
+
 
 ### Background
 
